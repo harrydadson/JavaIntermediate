@@ -8,7 +8,7 @@ import java.io.IOException;
 public class CSVreader {
     public static void main(String[] args) {
    
-    String path = "/Users/harry.dadson@ibm.com/Downloads/SacramentocrimeJanuary2006.csv";
+    String path = "";
     String line = "";
 
     try {
